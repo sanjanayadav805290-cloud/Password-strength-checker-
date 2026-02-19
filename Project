@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Profile</title>
+</head>
+<body>
+
+<h1>My Personal Profile</h1>
+
+<img src="profile.jpg" alt="My Photo" width="150">
+
+<h2>Sanjana Yadav</h2>
+<p>Diploma CSE Student</p>
+
+<h3>About Me</h3>
+<p>
+I am a Diploma CSE student. I am learning Full Stack Development
+and want to become a software developer.
+</p>
+
+<h3>Skills</h3>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript (Basic)</li>
+    <li>C Programming</li>
+</ul>
+
+<h3>Education</h3>
+<table border="1">
+    <tr>
+        <th>Course</th>
+        <th>Institute</th>
+        <th>Year</th>
+    </tr>
+    <tr>
+        <td>Diploma (CSE)</td>
+        <td>Government Polytechnic</td>
+        <td>2023–2026</td>
+    </tr>
+</table>
+
+<h3>Contact</h3>
+<p>Email: sanjana@example.com</p>
+<p>Phone: 9XXXXXXXXX</p>
+
+</body>
+</html>
